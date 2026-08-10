@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.vscode/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.zip
+*.rar
