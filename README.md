@@ -1,5 +1,9 @@
 # C++ Trading Simulator
 
+**Portfolio focus:** object-oriented design, CSV parsing, and modelling users, wallets, and order books.
+
+**Scope:** an educational trading simulation. It does not connect to a real exchange or execute financial transactions.
+
 A command-line C++ trading simulator built for an object-oriented programming course. The project models users, wallets, order book entries, CSV reading, and trading actions.
 
 ## Tech Stack
